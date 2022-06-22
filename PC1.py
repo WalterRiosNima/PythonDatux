@@ -1,5 +1,3 @@
-#%% ALUMNO: Rios Nima, Walter
-
 #%% PC1
 #%% Problema 1:
 
